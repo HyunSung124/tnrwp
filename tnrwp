@@ -1,0 +1,10 @@
+def solution(n, arr1, arr2):
+    answer = []
+    for i in range(len(arr1)):
+       i.replace(1,'*')
+	 print(bin(arr1))
+    for j in range(len(arr2)):
+       j.replace(1,'*')
+    return answer
+arr1 = [9, 20, 28, 18, 11]
+arr2 = [30, 1, 21, 17, 28]
